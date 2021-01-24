@@ -1,3 +1,4 @@
+//Adding the heder to check PR.
 // Connections : SCL PIN - D1 , SDA PIN - D2 , INT PIN - D0 , 
 //PIR(OUT) - (ESP32 - GPIO 13, Voltage = 5V).
 //LED - GPIO27
